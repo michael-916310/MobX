@@ -27,6 +27,7 @@
 
 .todo-list {
   margin-left: 10px;
+  margin-right: 10px;
   width: 300px;
   border: 1px solid grey;
 }
